@@ -6,13 +6,13 @@ import { projects } from '../../constants/constants';
 
 const Projects = () => (
   <Section nopadding id="projects">
-    <SectionDivider />
+
     <SectionTitle main>Projects</SectionTitle>
     <GridContainer>
       {projects.map((p, i) => {
         return (
           <BlogCard key={i}>
-          <Img src={p.image} />
+            <Img src={p.image} />
             <TitleContent>
               <HeaderThree title>{p.title}</HeaderThree>
               <Hr />

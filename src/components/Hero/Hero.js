@@ -13,9 +13,11 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+          Hi I am Irfan Farooq from Kulgam Jammu and Kashmir India.I am a MERN stack developer. I am a self taught developer with a passion for learning new technologies and solving problems. I am part time freelancer and I am currently studying Bachelors of Engineering at SSM college of Engineering and Technology.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <a href="#about">
+          <Button onClick={props.handleClick} >Learn More</Button>
+        </a>
       </LeftSection>
     </Section>
   </>
