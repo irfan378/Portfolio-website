@@ -1,5 +1,15 @@
 export const projects = [
   {
+    title: 'Food-App',
+    description: "This is a Food-app made using Next js,Tailwind-css and TypeScript",
+    image: './images/20.png',
+    tags: ["NextJs","TypeScript","MongoDb","Tailwind-Css"],
+    visit: ' https://github.com/irfan378/Food-APP',
+    source: 'https://https://food-app-irfan378.vercel.app/',
+    id: 22,
+
+  },
+  {
     title: 'E-commerce',
     description: "This is a ecommerce website made using Mongodb,Express,Node and React.",
     image: './images/19.png',
