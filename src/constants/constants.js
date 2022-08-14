@@ -5,7 +5,7 @@ export const projects = [
     image: './images/20.png',
     tags: ["NextJs","TypeScript","MongoDb","Tailwind-Css"],
     visit: ' https://github.com/irfan378/Food-APP',
-    source: 'https://https://food-app-irfan378.vercel.app/',
+    source: 'https://food-app-irfan378.vercel.app/',
     id: 22,
 
   },
