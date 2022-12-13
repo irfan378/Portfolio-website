@@ -1,11 +1,21 @@
 export const projects = [
   {
+    title: 'Project-Managment App',
+    description: "This is a Project Managment app made for freelancers using Mongodb,Express,GraphQL,ReactJs",
+    image: './images/21.png',
+    tags: ["ReactJs","GraphQL","MongoDb","Express","NodeJs"],
+    visit: 'https://github.com/irfan378/Project-managment-app',
+    source: 'https://www.youtube.com/watch?v=Z0CPOMWOSY0',
+    id: 22,
+
+  },
+  {
     title: 'Food-App',
     description: "This is a Food-app made using Next js,Tailwind-css and TypeScript",
     image: './images/20.png',
     tags: ["NextJs","TypeScript","MongoDb","Tailwind-Css"],
     visit: ' https://github.com/irfan378/Food-APP',
-    source: 'https://food-app-irfan378.vercel.app/',
+    source: 'https://www.youtube.com/watch?v=XBrd4kfRWAE&t',
     id: 22,
 
   },
@@ -15,7 +25,7 @@ export const projects = [
     image: './images/19.png',
     tags: ["React","Express","MongoDb","Node"],
     visit: ' https://github.com/irfan378/e-commerce',
-    source: 'https://ecommercemernapp1.herokuapp.com/',
+    source: 'https://www.youtube.com/watch?v=KWepPKG1TeQ',
     id: 21,
 
   },
